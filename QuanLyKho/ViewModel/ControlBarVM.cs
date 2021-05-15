@@ -74,5 +74,7 @@ namespace QuanLyKho.ViewModel
             }
             return parent;
         }
+        //comment
+
     }
 }
